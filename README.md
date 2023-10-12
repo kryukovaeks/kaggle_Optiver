@@ -8,3 +8,5 @@ Stock exchanges operate under immense pressure, particularly during the final te
 Optiver, a premier global electronic market maker, thrives in this environment. With advanced technology, they engage in global trades spanning a range of financial instruments. As trading concludes on Nasdaq, entities like Optiver integrate order book and auction data, essential for determining the best prices.
 
 In this competition, participants are tasked with developing a predictive model for the closing prices of numerous Nasdaq stocks using both order book and auction data. This model holds the potential to bolster market efficiency, especially during the high-stress concluding moments of trade. Engaging in this challenge offers an experience mirroring the roles at Optiver.
+## Link to the notebook
+https://www.kaggle.com/code/ekaterinakryukova2/competition-optiver
